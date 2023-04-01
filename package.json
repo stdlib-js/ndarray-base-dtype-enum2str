@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/strided-dtypes": "^0.0.8",
+    "@stdlib/ndarray-dtypes": "^0.0.9",
     "@stdlib/utils-object-inverse": "^0.0.8"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtype-enum2str",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Return the data type string associated with an ndarray data type enumeration constant.",
   "license": "Apache-2.0",
   "author": {
@@ -37,13 +37,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-dtypes": "^0.0.9",
-    "@stdlib/utils-object-inverse": "^0.0.8"
+    "@stdlib/ndarray-dtypes": "^0.1.0",
+    "@stdlib/utils-object-inverse": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
-    "@stdlib/ndarray-base-dtype-str2enum": "^0.0.1",
+    "@stdlib/assert-is-string": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
+    "@stdlib/ndarray-base-dtype-str2enum": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"

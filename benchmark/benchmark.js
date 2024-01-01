@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var isString = require( '@stdlib/assert-is-string' ).isPrimitive;
 var str2enum = require( '@stdlib/ndarray-base-dtype-str2enum' );
 var pkg = require( './../package.json' ).name;

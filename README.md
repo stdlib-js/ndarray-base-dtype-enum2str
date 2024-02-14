@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enum2str@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-dtype-enum2str/tags). For example,
+
+```javascript
 import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enum2str@v0.2.0-deno/mod.js';
 ```
 
@@ -98,7 +103,7 @@ var v = enum2str( -999999999 );
 
 ```javascript
 import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-str2enum@deno/mod.js';
-import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enum2str@v0.2.0-deno/mod.js';
+import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-enum2str@deno/mod.js';
 
 var str = enum2str( str2enum( 'float64' ) );
 // returns 'float64'

@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
     "@stdlib/ndarray-dtypes": "^0.3.0",
-    "@stdlib/utils-object-inverse": "^0.2.2"
+    "@stdlib/utils-object-inverse": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/ndarray-base-dtype-str2enum": "^0.2.2",

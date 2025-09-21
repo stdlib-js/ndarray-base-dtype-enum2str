@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-19)
+## Unreleased (2025-09-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`476b018`](https://github.com/stdlib-js/stdlib/commit/476b0181203eb4c523ebfb1390ad8c39dd509b24) - **refactor:** update require path _(by Athan Reines)_
 -   [`a83bb3d`](https://github.com/stdlib-js/stdlib/commit/a83bb3d053dd235dff135913f0c582e5c4391b80) - **refactor:** use assertion utility _(by Athan Reines)_
 
 </details>

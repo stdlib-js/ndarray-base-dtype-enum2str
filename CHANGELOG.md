@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-21)
+## Unreleased (2026-01-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`46c47ec`](https://github.com/stdlib-js/stdlib/commit/46c47ec0c92f9a3608290ef8a6ca5cf0e9258866) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`476b018`](https://github.com/stdlib-js/stdlib/commit/476b0181203eb4c523ebfb1390ad8c39dd509b24) - **refactor:** update require path _(by Athan Reines)_
 -   [`a83bb3d`](https://github.com/stdlib-js/stdlib/commit/a83bb3d053dd235dff135913f0c582e5c4391b80) - **refactor:** use assertion utility _(by Athan Reines)_
 
@@ -25,9 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Neeraj Pathak
 
 </section>
 

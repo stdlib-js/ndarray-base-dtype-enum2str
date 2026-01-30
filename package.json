@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-enums": "github:stdlib-js/ndarray-base-dtype-enums#main",
+    "@stdlib/ndarray-base-dtype-enums": "^0.1.0",
     "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main"
   },
   "devDependencies": {
@@ -79,7 +79,6 @@
     "util",
     "enum"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
